@@ -1,6 +1,6 @@
 {
   "name": "url-short-microservice",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "URL Shortner Microservice FCC",
   "main": "app.js",
   "scripts": {

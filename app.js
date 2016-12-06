@@ -9,7 +9,7 @@ const validUrl = require('valid-url');
 
 const app = express();
 const port = process.env.PORT || 9000;
-const mLab = "mongodb://localhost:27017/url-shortener-microservice";
+const mLab = 'mongodb://fccuser:fccuser11@ds059516.mlab.com:59516/url-shortener-mircoservice';
 const MongoClient = mongodb.MongoClient;
 
 // Middleware Functions
