@@ -1,7 +1,7 @@
 # url-short-microservice
 URL Shortner Microservice for [FCC](https://www.freecodecamp.com)
 
-**Deployment Link**: [Heroku]
+**Deployment Link**: [Heroku](https://urlshort-fcc.herokuapp.com/new/http://twitter.com)
 
 ## Usage
 clone the repo:
