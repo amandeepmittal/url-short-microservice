@@ -1,0 +1,21 @@
+extends layout.pug
+block content
+  .row
+    .col-md-6
+      h1 URL Shortener Microservice
+    .col-md-12
+      hr
+      h3 Example creation usage:
+      code https://little-url.herokuapp.com/new/https://www.google.com
+      br
+      code  https://little-url.herokuapp.com/new/http://foo.com:80
+      br
+      br
+      h3 Example creation output
+      code { "original_url":"http://google.com:80", "short_url":"https://little-url.herokuapp.com/2871" }
+      br
+      h3 Usage:
+      code https://little-url.herokuapp.com/2871
+      br
+      h3 Will redirect to:
+      code https://www.google.com/

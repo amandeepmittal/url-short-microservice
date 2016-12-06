@@ -6,7 +6,7 @@ URL Shortner Microservice for [FCC](https://www.freecodecamp.com)
 ## Usage
 clone the repo:
 
-`git clone https://github.com/amandeepmittal/request-header-parser-microservice`
+`git clone https://github.com/amandeepmittal/url-short-microservice`
 
 run npm install:
 
