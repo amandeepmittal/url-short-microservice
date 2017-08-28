@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/amandeepmittal/url-short-microservice#readme",
   "dependencies": {
-    "express": "4.14.0",
-    "mongodb": "2.2.12",
-    "pug": "2.0.0-beta5",
-    "shortid": "2.2.6",
+    "express": "4.15.4",
+    "mongodb": "2.2.31",
+    "pug": "2.0.0-rc.3",
+    "shortid": "2.2.8",
     "valid-url": "1.0.9"
   },
   "engines": {
